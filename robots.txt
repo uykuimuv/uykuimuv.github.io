@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://uykuimuv.github.io/sitemap/sitemap.txt
